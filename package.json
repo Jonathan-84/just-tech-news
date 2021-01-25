@@ -1,0 +1,20 @@
+{
+  "name": "just-tech-news",
+  "version": "1.0.0",
+  "description": "basic local updates",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jonathan-84/just-tech-news/issues"
+  },
+  "homepage": "https://github.com/Jonathan-84/just-tech-news#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql2": "^2.2.5",
+    "sequelize": "^6.4.0"
+  }
+}

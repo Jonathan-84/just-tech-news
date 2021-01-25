@@ -1,2 +1,2 @@
 # just-tech-news
-basic local updates
+basic local updatesls
