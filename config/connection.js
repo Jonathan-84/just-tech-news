@@ -10,5 +10,3 @@ const sequelize = new Sequelize(process.env.DB_NAME, process.env.DB_USER, proces
 });
 
 module.exports = sequelize;
-
----up to 13.1.5
